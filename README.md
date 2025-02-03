@@ -77,4 +77,4 @@ Este proyecto está bajo la licencia [MIT](LICENSE). ¡Siéntete libre de usarlo
 
 ---
 
-¡Esperamos que disfrutes usando esta aplicación para organizar tu próximo **amigo secreto**! 🎉
+¡Espero que disfrutes usando esta aplicación para organizar tu próximo **amigo secreto**! 🎉
