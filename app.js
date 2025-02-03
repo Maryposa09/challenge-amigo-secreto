@@ -1,8 +1,6 @@
 // Declarar un array para almacenar los nombres de los amigos
 let amigos = [];
 
-=======
->>>>>>> ce9829e6c8c6aead3f14b6820eeeb0e436dfaede
 // Función para agregar un amigo a la lista
 function agregarAmigo() {
     // Capturar el valor del campo de entrada
