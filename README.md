@@ -71,10 +71,4 @@ El código es eficiente y evita operaciones innecesarias:
 
 ---
 
-## Licencia 📄
-
-Este proyecto está bajo la licencia [MIT](LICENSE). ¡Siéntete libre de usarlo y modificarlo!
-
----
-
 ¡Espero que disfrutes usando esta aplicación para organizar tu próximo **amigo secreto**! 🎉
